@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26323.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MyFirstPythonApplication", "MyFirstPythonApplication\MyFirstPythonApplication.pyproj", "{798887B1-0FE9-4013-A5B1-5B0BC5617BE8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LearningMathPython", "LearningMathPython\LearningMathPython.pyproj", "{C77E00FA-A412-49EA-A9AC-6FBB61668E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798887B1-0FE9-4013-A5B1-5B0BC5617BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798887B1-0FE9-4013-A5B1-5B0BC5617BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77E00FA-A412-49EA-A9AC-6FBB61668E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77E00FA-A412-49EA-A9AC-6FBB61668E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
